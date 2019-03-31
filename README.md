@@ -1,6 +1,6 @@
 ## filter.js
 
-This is am example program for dealing with streams in Node.
+This is an example program for dealing with streams in Node.
 
 `filter.js` takes a stream of either 'x' or 'y' (utf8) via `stdin`.
 
