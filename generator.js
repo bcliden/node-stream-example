@@ -6,6 +6,5 @@ var interval = setInterval(emit, 500);
 
 function emit() {
   let int = Math.round(Math.random());
-  // console.log(int === 1 ? "x" : "y");
   process.stdout.write(int === 1 ? "x" : "y");
 }
